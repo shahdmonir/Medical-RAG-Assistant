@@ -1,0 +1,3 @@
+docling
+sentence-transformers
+chromadb
